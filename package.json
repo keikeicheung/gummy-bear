@@ -16,6 +16,7 @@
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
     "babel-loader": "7.1.1",
+    "babel-plugin-relay": "^1.2.0",
     "babel-preset-react-app": "^3.0.2",
     "babel-runtime": "6.23.0",
     "case-sensitive-paths-webpack-plugin": "2.1.1",
@@ -46,6 +47,7 @@
     "react-error-overlay": "^1.0.10",
     "react-relay": "^1.2.0",
     "react-router": "^2.8.1",
+    "relay-compiler": "^1.2.0",
     "style-loader": "0.18.2",
     "sw-precache-webpack-plugin": "0.11.4",
     "url-loader": "0.5.9",
@@ -60,10 +62,7 @@
     "test": "node scripts/test.js --env=jsdom",
     "relay": "relay-compiler --src ./src --schema ./schema.graphql"
   },
-  "devDependencies": {
-    "babel-plugin-relay": "^1.2.0",
-    "relay-compiler": "^1.2.0"
-  },
+  "devDependencies": {},
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
@@ -98,21 +97,12 @@
     ]
   },
   "babel": {
-    "env": {
-      "production": {
-        "presets": [
-          "react-app"
-        ]
-      },
-      "development": {
-        "presets": [
-          "react-app"
-        ],
-        "plugins": [
-          "relay"
-        ]
-      }
-    }
+    "presets": [
+      "react-app"
+    ],
+    "plugins": [
+      "relay"
+    ]
   },
   "eslintConfig": {
     "extends": "react-app"
