@@ -10,5 +10,5 @@ ReactDOM.render(
         <Route path='/create' component={CreatePage} />
     </Router>
     , document.getElementById('root')
-)
-registerServiceWorker()
+);
+registerServiceWorker();

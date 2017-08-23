@@ -101,7 +101,7 @@
       "react-app"
     ],
     "plugins": [
-      "relay"
+      "babel-plugin-relay"
     ]
   },
   "eslintConfig": {
