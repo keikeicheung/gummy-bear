@@ -16,6 +16,7 @@
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
     "babel-loader": "7.1.1",
+    "babel-plugin-import": "^1.4.0",
     "babel-plugin-relay": "^1.2.0",
     "babel-preset-react-app": "^3.0.2",
     "babel-runtime": "6.23.0",
@@ -101,7 +102,7 @@
       "react-app"
     ],
     "plugins": [
-      "babel-plugin-relay"
+      "relay"
     ]
   },
   "eslintConfig": {
