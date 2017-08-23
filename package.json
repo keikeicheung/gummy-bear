@@ -98,7 +98,7 @@
       "react-app"
     ],
     "plugins": [
-      "relay"
+      "./node_modules/babel-plugin-relay/lib/BabelPluginRelay.js"
     ]
   },
   "eslintConfig": {
