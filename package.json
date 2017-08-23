@@ -7,11 +7,6 @@
     "npm": "5.3.0",
     "yarn": "0.24.6"
   },
-  "metadata": {
-    "graphql": {
-      "schema": "./graphql.schema.json"
-    }
-  },
   "dependencies": {
     "autoprefixer": "7.1.2",
     "babel-core": "6.25.0",
