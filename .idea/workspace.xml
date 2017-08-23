@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3399d5ed-f295-46d8-a910-c5bfc2518bff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gummy-bear.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,15 +20,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+                <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -35,29 +50,19 @@
               <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
-                <marker date="1503481496000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
-                <marker date="1503481496000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
-                <marker date="1503481496000" expanded="true" signature="1021:1039" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="1031:1033" ph="id...id" />
-                <marker date="1503481496000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
-                <marker date="1503481496000" expanded="true" signature="1066:1070" ph="Post...Post" />
-                <marker date="1503481496000" expanded="true" signature="1071:1126" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="1081:1083" ph="id...id" />
-                <marker date="1503481496000" expanded="true" signature="1092:1103" ph="description...description" />
-                <marker date="1503481496000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
+                <marker date="1503482530000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
+                <marker date="1503482530000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
+                <marker date="1503482530000" expanded="true" signature="1021:1039" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="1031:1033" ph="id...id" />
+                <marker date="1503482530000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
+                <marker date="1503482530000" expanded="true" signature="1066:1070" ph="Post...Post" />
+                <marker date="1503482530000" expanded="true" signature="1071:1126" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="1081:1083" ph="id...id" />
+                <marker date="1503482530000" expanded="true" signature="1092:1103" ph="description...description" />
+                <marker date="1503482530000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.prod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/webpack.config.prod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -68,13 +73,13 @@
             <state relative-caret-position="90">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="39" />
               <folding>
-                <marker date="1503481496000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
-                <marker date="1503481496000" expanded="true" signature="236:301" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="246:252" ph="viewer...viewer" />
-                <marker date="1503481496000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
-                <marker date="1503481496000" expanded="true" signature="253:295" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
+                <marker date="1503482530000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
+                <marker date="1503482530000" expanded="true" signature="236:301" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="246:252" ph="viewer...viewer" />
+                <marker date="1503482530000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
+                <marker date="1503482530000" expanded="true" signature="253:295" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
               </folding>
             </state>
           </provider>
@@ -97,13 +102,13 @@
               <caret line="70" column="37" lean-forward="false" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
-                <marker date="1503481496000" expanded="true" signature="267:344" ph="query...{&#10;        viewer {&#10;            id&#10;        }&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="273:294" ph="CreatePageViewerQuery...CreatePageViewerQuery" />
-                <marker date="1503481496000" expanded="true" signature="295:344" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="305:311" ph="viewer...viewer" />
-                <marker date="1503481496000" expanded="true" signature="305:338" ph="viewer...{&#10;            id&#10;        }" />
-                <marker date="1503481496000" expanded="true" signature="312:338" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="326:328" ph="id...id" />
+                <marker date="1503482530000" expanded="true" signature="267:344" ph="query...{&#10;        viewer {&#10;            id&#10;        }&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="273:294" ph="CreatePageViewerQuery...CreatePageViewerQuery" />
+                <marker date="1503482530000" expanded="true" signature="295:344" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="305:311" ph="viewer...viewer" />
+                <marker date="1503482530000" expanded="true" signature="305:338" ph="viewer...{&#10;            id&#10;        }" />
+                <marker date="1503482530000" expanded="true" signature="312:338" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="326:328" ph="id...id" />
               </folding>
             </state>
           </provider>
@@ -116,29 +121,29 @@
               <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
-                <marker date="1503481496000" expanded="true" signature="181:310" ph="mutation...{&#10;        deletePost(input: $input) {&#10;            deletedId&#10;        }&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="190:208" ph="DeletePostMutation...DeletePostMutation" />
-                <marker date="1503481496000" expanded="true" signature="208:234" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="217:232" ph="DeletePostInput...DeletePostInput" />
-                <marker date="1503481496000" expanded="true" signature="235:310" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="245:255" ph="deletePost...deletePost" />
-                <marker date="1503481496000" expanded="true" signature="245:304" ph="deletePost...{&#10;            deletedId&#10;        }" />
-                <marker date="1503481496000" expanded="true" signature="255:270" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="256:261" ph="input...input" />
-                <marker date="1503481496000" expanded="true" signature="271:304" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="285:294" ph="deletedId...deletedId" />
-                <marker date="1503481496000" expanded="true" signature="328:346" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="350:459" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="356:361" ph="const...const" />
-                <marker date="1503481496000" expanded="true" signature="362:371" ph="variables...variables" />
-                <marker date="1503481496000" expanded="true" signature="405:407" ph="id...id" />
-                <marker date="1503481496000" expanded="true" signature="409:415" ph="postId...postId" />
-                <marker date="1503481496000" expanded="true" signature="485:623" ph="(...{&#10;            mutation,&#10;            variables,&#10;            onError: err =&gt; console.error(err),&#10;            optimisticUpdater: (proxyStore) =&gt; {&#10;                // ... you'll implement this in a bit&#10;            }" />
-                <marker date="1503481496000" expanded="true" signature="516:623" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="530:538" ph="mutation...mutation" />
-                <marker date="1503481496000" expanded="true" signature="552:561" ph="variables...variables" />
-                <marker date="1503481496000" expanded="true" signature="584:587" ph="err...err" />
-                <marker date="1503481496000" expanded="true" signature="591:598" ph="console...console" />
+                <marker date="1503482530000" expanded="true" signature="181:310" ph="mutation...{&#10;        deletePost(input: $input) {&#10;            deletedId&#10;        }&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="190:208" ph="DeletePostMutation...DeletePostMutation" />
+                <marker date="1503482530000" expanded="true" signature="208:234" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="217:232" ph="DeletePostInput...DeletePostInput" />
+                <marker date="1503482530000" expanded="true" signature="235:310" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="245:255" ph="deletePost...deletePost" />
+                <marker date="1503482530000" expanded="true" signature="245:304" ph="deletePost...{&#10;            deletedId&#10;        }" />
+                <marker date="1503482530000" expanded="true" signature="255:270" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="256:261" ph="input...input" />
+                <marker date="1503482530000" expanded="true" signature="271:304" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="285:294" ph="deletedId...deletedId" />
+                <marker date="1503482530000" expanded="true" signature="328:346" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="350:459" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="356:361" ph="const...const" />
+                <marker date="1503482530000" expanded="true" signature="362:371" ph="variables...variables" />
+                <marker date="1503482530000" expanded="true" signature="405:407" ph="id...id" />
+                <marker date="1503482530000" expanded="true" signature="409:415" ph="postId...postId" />
+                <marker date="1503482530000" expanded="true" signature="485:623" ph="(...{&#10;            mutation,&#10;            variables,&#10;            onError: err =&gt; console.error(err),&#10;            optimisticUpdater: (proxyStore) =&gt; {&#10;                // ... you'll implement this in a bit&#10;            }" />
+                <marker date="1503482530000" expanded="true" signature="516:623" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="530:538" ph="mutation...mutation" />
+                <marker date="1503482530000" expanded="true" signature="552:561" ph="variables...variables" />
+                <marker date="1503482530000" expanded="true" signature="584:587" ph="err...err" />
+                <marker date="1503482530000" expanded="true" signature="591:598" ph="console...console" />
               </folding>
             </state>
           </provider>
@@ -163,30 +168,30 @@
               <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
-                <marker date="1503481496000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
-                <marker date="1503481496000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
-                <marker date="1503481496000" expanded="true" signature="855:1109" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
-                <marker date="1503481496000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
-                <marker date="1503481496000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
-                <marker date="1503481496000" expanded="true" signature="896:932" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="897:901" ph="last...last" />
-                <marker date="1503481496000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
-                <marker date="1503481496000" expanded="true" signature="944:983" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="945:948" ph="key...key" />
-                <marker date="1503481496000" expanded="true" signature="971:978" ph="filters...filters" />
-                <marker date="1503481496000" expanded="true" signature="971:982" ph="filters...[]" />
-                <marker date="1503481496000" expanded="true" signature="980:982" ph="[...]" />
-                <marker date="1503481496000" expanded="true" signature="984:1103" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="998:1003" ph="edges...edges" />
-                <marker date="1503481496000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
-                <marker date="1503481496000" expanded="true" signature="1004:1093" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="1022:1026" ph="node...node" />
-                <marker date="1503481496000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
-                <marker date="1503481496000" expanded="true" signature="1027:1079" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
-                <marker date="1503481496000" expanded="true" signature="1104:1109" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
+                <marker date="1503482530000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
+                <marker date="1503482530000" expanded="true" signature="855:1109" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
+                <marker date="1503482530000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
+                <marker date="1503482530000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
+                <marker date="1503482530000" expanded="true" signature="896:932" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="897:901" ph="last...last" />
+                <marker date="1503482530000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
+                <marker date="1503482530000" expanded="true" signature="944:983" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="945:948" ph="key...key" />
+                <marker date="1503482530000" expanded="true" signature="971:978" ph="filters...filters" />
+                <marker date="1503482530000" expanded="true" signature="971:982" ph="filters...[]" />
+                <marker date="1503482530000" expanded="true" signature="980:982" ph="[...]" />
+                <marker date="1503482530000" expanded="true" signature="984:1103" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="998:1003" ph="edges...edges" />
+                <marker date="1503482530000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
+                <marker date="1503482530000" expanded="true" signature="1004:1093" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="1022:1026" ph="node...node" />
+                <marker date="1503482530000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
+                <marker date="1503482530000" expanded="true" signature="1027:1079" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
+                <marker date="1503482530000" expanded="true" signature="1104:1109" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -199,22 +204,22 @@
               <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
-                <marker date="1503481496000" expanded="true" signature="182:394" ph="mutation...{&#10;        createPost(input: $input) {&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }&#10;    }" />
-                <marker date="1503481496000" expanded="true" signature="191:209" ph="CreatePostMutation...CreatePostMutation" />
-                <marker date="1503481496000" expanded="true" signature="209:235" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="218:233" ph="CreatePostInput...CreatePostInput" />
-                <marker date="1503481496000" expanded="true" signature="236:394" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="246:256" ph="createPost...createPost" />
-                <marker date="1503481496000" expanded="true" signature="246:388" ph="createPost...{&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }" />
-                <marker date="1503481496000" expanded="true" signature="256:271" ph="(...)" />
-                <marker date="1503481496000" expanded="true" signature="257:262" ph="input...input" />
-                <marker date="1503481496000" expanded="true" signature="272:388" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="286:290" ph="post...post" />
-                <marker date="1503481496000" expanded="true" signature="286:378" ph="post...{&#10;                id&#10;                description&#10;                imageUrl&#10;            }" />
-                <marker date="1503481496000" expanded="true" signature="291:378" ph="{...}" />
-                <marker date="1503481496000" expanded="true" signature="309:311" ph="id...id" />
-                <marker date="1503481496000" expanded="true" signature="328:339" ph="description...description" />
-                <marker date="1503481496000" expanded="true" signature="356:364" ph="imageUrl...imageUrl" />
+                <marker date="1503482530000" expanded="true" signature="182:394" ph="mutation...{&#10;        createPost(input: $input) {&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }&#10;    }" />
+                <marker date="1503482530000" expanded="true" signature="191:209" ph="CreatePostMutation...CreatePostMutation" />
+                <marker date="1503482530000" expanded="true" signature="209:235" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="218:233" ph="CreatePostInput...CreatePostInput" />
+                <marker date="1503482530000" expanded="true" signature="236:394" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="246:256" ph="createPost...createPost" />
+                <marker date="1503482530000" expanded="true" signature="246:388" ph="createPost...{&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }" />
+                <marker date="1503482530000" expanded="true" signature="256:271" ph="(...)" />
+                <marker date="1503482530000" expanded="true" signature="257:262" ph="input...input" />
+                <marker date="1503482530000" expanded="true" signature="272:388" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="286:290" ph="post...post" />
+                <marker date="1503482530000" expanded="true" signature="286:378" ph="post...{&#10;                id&#10;                description&#10;                imageUrl&#10;            }" />
+                <marker date="1503482530000" expanded="true" signature="291:378" ph="{...}" />
+                <marker date="1503482530000" expanded="true" signature="309:311" ph="id...id" />
+                <marker date="1503482530000" expanded="true" signature="328:339" ph="description...description" />
+                <marker date="1503482530000" expanded="true" signature="356:364" ph="imageUrl...imageUrl" />
               </folding>
             </state>
           </provider>
@@ -259,6 +264,7 @@
         <option value="$PROJECT_DIR$/src/Post.js" />
         <option value="$PROJECT_DIR$/src/ListPage.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -267,9 +273,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -1160,7 +1163,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7536000" />
+    <option name="totallyTimeSpent" value="7774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -1218,20 +1221,20 @@
         <state relative-caret-position="1380">
           <caret line="92" column="12" lean-forward="false" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
           <folding>
-            <marker date="1503481496000" expanded="true" signature="85:1429" ph="{&quot;autoprefixer&quot;: &quot;7.1.2&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1444:1572" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1595:1667" ph="{&quot;babel-plugin-relay&quot;: &quot;^1.2.0&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1679:2514" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1708:1741" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="1761:1806" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="1825:1929" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2014:2223" ph="{&quot;^.+\.(js|jsx)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="2256:2312" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2338:2388" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="2418:2510" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2527:2611" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="2544:2569" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2586:2607" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="85:1429" ph="{&quot;autoprefixer&quot;: &quot;7.1.2&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1444:1572" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1595:1667" ph="{&quot;babel-plugin-relay&quot;: &quot;^1.2.0&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1679:2514" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1708:1741" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="1761:1806" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="1825:1929" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2014:2223" ph="{&quot;^.+\.(js|jsx)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="2256:2312" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2338:2388" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="2418:2510" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2527:2611" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="2544:2569" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2586:2607" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -1258,30 +1261,30 @@
           <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
-            <marker date="1503481496000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
-            <marker date="1503481496000" expanded="true" signature="855:1109" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
-            <marker date="1503481496000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
-            <marker date="1503481496000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="896:932" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="897:901" ph="last...last" />
-            <marker date="1503481496000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
-            <marker date="1503481496000" expanded="true" signature="944:983" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="945:948" ph="key...key" />
-            <marker date="1503481496000" expanded="true" signature="971:978" ph="filters...filters" />
-            <marker date="1503481496000" expanded="true" signature="971:982" ph="filters...[]" />
-            <marker date="1503481496000" expanded="true" signature="980:982" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="984:1103" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="998:1003" ph="edges...edges" />
-            <marker date="1503481496000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
-            <marker date="1503481496000" expanded="true" signature="1004:1093" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1022:1026" ph="node...node" />
-            <marker date="1503481496000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
-            <marker date="1503481496000" expanded="true" signature="1027:1079" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
-            <marker date="1503481496000" expanded="true" signature="1104:1109" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
+            <marker date="1503482530000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
+            <marker date="1503482530000" expanded="true" signature="855:1109" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
+            <marker date="1503482530000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
+            <marker date="1503482530000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="896:932" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="897:901" ph="last...last" />
+            <marker date="1503482530000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
+            <marker date="1503482530000" expanded="true" signature="944:983" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="945:948" ph="key...key" />
+            <marker date="1503482530000" expanded="true" signature="971:978" ph="filters...filters" />
+            <marker date="1503482530000" expanded="true" signature="971:982" ph="filters...[]" />
+            <marker date="1503482530000" expanded="true" signature="980:982" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="984:1103" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="998:1003" ph="edges...edges" />
+            <marker date="1503482530000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
+            <marker date="1503482530000" expanded="true" signature="1004:1093" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1022:1026" ph="node...node" />
+            <marker date="1503482530000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
+            <marker date="1503482530000" expanded="true" signature="1027:1079" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
+            <marker date="1503482530000" expanded="true" signature="1104:1109" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1291,13 +1294,13 @@
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding>
-            <marker date="1503481496000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
-            <marker date="1503481496000" expanded="true" signature="236:301" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="246:252" ph="viewer...viewer" />
-            <marker date="1503481496000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="253:295" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
+            <marker date="1503482530000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
+            <marker date="1503482530000" expanded="true" signature="236:301" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="246:252" ph="viewer...viewer" />
+            <marker date="1503482530000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="253:295" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
           </folding>
         </state>
       </provider>
@@ -1308,18 +1311,18 @@
           <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
-            <marker date="1503481496000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
-            <marker date="1503481496000" expanded="true" signature="1021:1039" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1031:1033" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
-            <marker date="1503481496000" expanded="true" signature="1066:1070" ph="Post...Post" />
-            <marker date="1503481496000" expanded="true" signature="1071:1126" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1081:1083" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="1092:1103" ph="description...description" />
-            <marker date="1503481496000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
+            <marker date="1503482530000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
+            <marker date="1503482530000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
+            <marker date="1503482530000" expanded="true" signature="1021:1039" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1031:1033" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
+            <marker date="1503482530000" expanded="true" signature="1066:1070" ph="Post...Post" />
+            <marker date="1503482530000" expanded="true" signature="1071:1126" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1081:1083" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="1092:1103" ph="description...description" />
+            <marker date="1503482530000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
           </folding>
         </state>
       </provider>
@@ -1401,20 +1404,20 @@
         <state relative-caret-position="1395">
           <caret line="95" column="12" lean-forward="false" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
           <folding>
-            <marker date="1503481496000" expanded="true" signature="85:1429" ph="{&quot;autoprefixer&quot;: &quot;7.1.2&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1444:1572" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1595:1667" ph="{&quot;babel-plugin-relay&quot;: &quot;^1.2.0&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1679:2514" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="1708:1741" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="1761:1806" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="1825:1929" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2014:2223" ph="{&quot;^.+\.(js|jsx)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="2256:2312" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2338:2388" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
-            <marker date="1503481496000" expanded="true" signature="2418:2510" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2527:2611" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="2544:2569" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="2586:2607" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="85:1429" ph="{&quot;autoprefixer&quot;: &quot;7.1.2&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1444:1572" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1595:1667" ph="{&quot;babel-plugin-relay&quot;: &quot;^1.2.0&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1679:2514" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="1708:1741" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="1761:1806" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="1825:1929" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2014:2223" ph="{&quot;^.+\.(js|jsx)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="2256:2312" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2338:2388" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1503482530000" expanded="true" signature="2418:2510" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2527:2611" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="2544:2569" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="2586:2607" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -1441,22 +1444,22 @@
           <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="e#0#62#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="182:394" ph="mutation...{&#10;        createPost(input: $input) {&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="191:209" ph="CreatePostMutation...CreatePostMutation" />
-            <marker date="1503481496000" expanded="true" signature="209:235" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="218:233" ph="CreatePostInput...CreatePostInput" />
-            <marker date="1503481496000" expanded="true" signature="236:394" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="246:256" ph="createPost...createPost" />
-            <marker date="1503481496000" expanded="true" signature="246:388" ph="createPost...{&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="256:271" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="257:262" ph="input...input" />
-            <marker date="1503481496000" expanded="true" signature="272:388" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="286:290" ph="post...post" />
-            <marker date="1503481496000" expanded="true" signature="286:378" ph="post...{&#10;                id&#10;                description&#10;                imageUrl&#10;            }" />
-            <marker date="1503481496000" expanded="true" signature="291:378" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="309:311" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="328:339" ph="description...description" />
-            <marker date="1503481496000" expanded="true" signature="356:364" ph="imageUrl...imageUrl" />
+            <marker date="1503482530000" expanded="true" signature="182:394" ph="mutation...{&#10;        createPost(input: $input) {&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="191:209" ph="CreatePostMutation...CreatePostMutation" />
+            <marker date="1503482530000" expanded="true" signature="209:235" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="218:233" ph="CreatePostInput...CreatePostInput" />
+            <marker date="1503482530000" expanded="true" signature="236:394" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="246:256" ph="createPost...createPost" />
+            <marker date="1503482530000" expanded="true" signature="246:388" ph="createPost...{&#10;            post {&#10;                id&#10;                description&#10;                imageUrl&#10;            }&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="256:271" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="257:262" ph="input...input" />
+            <marker date="1503482530000" expanded="true" signature="272:388" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="286:290" ph="post...post" />
+            <marker date="1503482530000" expanded="true" signature="286:378" ph="post...{&#10;                id&#10;                description&#10;                imageUrl&#10;            }" />
+            <marker date="1503482530000" expanded="true" signature="291:378" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="309:311" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="328:339" ph="description...description" />
+            <marker date="1503482530000" expanded="true" signature="356:364" ph="imageUrl...imageUrl" />
           </folding>
         </state>
       </provider>
@@ -1476,13 +1479,13 @@
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="39" />
           <folding>
-            <marker date="1503481496000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
-            <marker date="1503481496000" expanded="true" signature="236:301" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="246:252" ph="viewer...viewer" />
-            <marker date="1503481496000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="253:295" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
+            <marker date="1503482530000" expanded="true" signature="214:301" ph="query...{&#10;        viewer {&#10;            ...ListPage_viewer&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="220:235" ph="AppAllPostQuery...AppAllPostQuery" />
+            <marker date="1503482530000" expanded="true" signature="236:301" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="246:252" ph="viewer...viewer" />
+            <marker date="1503482530000" expanded="true" signature="246:295" ph="viewer...{&#10;            ...ListPage_viewer&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="253:295" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="270:285" ph="ListPage_viewer...ListPage_viewer" />
           </folding>
         </state>
       </provider>
@@ -1493,13 +1496,13 @@
           <caret line="70" column="37" lean-forward="false" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="267:344" ph="query...{&#10;        viewer {&#10;            id&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="273:294" ph="CreatePageViewerQuery...CreatePageViewerQuery" />
-            <marker date="1503481496000" expanded="true" signature="295:344" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="305:311" ph="viewer...viewer" />
-            <marker date="1503481496000" expanded="true" signature="305:338" ph="viewer...{&#10;            id&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="312:338" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="326:328" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="267:344" ph="query...{&#10;        viewer {&#10;            id&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="273:294" ph="CreatePageViewerQuery...CreatePageViewerQuery" />
+            <marker date="1503482530000" expanded="true" signature="295:344" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="305:311" ph="viewer...viewer" />
+            <marker date="1503482530000" expanded="true" signature="305:338" ph="viewer...{&#10;            id&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="312:338" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="326:328" ph="id...id" />
           </folding>
         </state>
       </provider>
@@ -1510,29 +1513,29 @@
           <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
           <folding>
             <element signature="e#0#62#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="181:310" ph="mutation...{&#10;        deletePost(input: $input) {&#10;            deletedId&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="190:208" ph="DeletePostMutation...DeletePostMutation" />
-            <marker date="1503481496000" expanded="true" signature="208:234" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="217:232" ph="DeletePostInput...DeletePostInput" />
-            <marker date="1503481496000" expanded="true" signature="235:310" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="245:255" ph="deletePost...deletePost" />
-            <marker date="1503481496000" expanded="true" signature="245:304" ph="deletePost...{&#10;            deletedId&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="255:270" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="256:261" ph="input...input" />
-            <marker date="1503481496000" expanded="true" signature="271:304" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="285:294" ph="deletedId...deletedId" />
-            <marker date="1503481496000" expanded="true" signature="328:346" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="350:459" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="356:361" ph="const...const" />
-            <marker date="1503481496000" expanded="true" signature="362:371" ph="variables...variables" />
-            <marker date="1503481496000" expanded="true" signature="405:407" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="409:415" ph="postId...postId" />
-            <marker date="1503481496000" expanded="true" signature="485:623" ph="(...{&#10;            mutation,&#10;            variables,&#10;            onError: err =&gt; console.error(err),&#10;            optimisticUpdater: (proxyStore) =&gt; {&#10;                // ... you'll implement this in a bit&#10;            }" />
-            <marker date="1503481496000" expanded="true" signature="516:623" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="530:538" ph="mutation...mutation" />
-            <marker date="1503481496000" expanded="true" signature="552:561" ph="variables...variables" />
-            <marker date="1503481496000" expanded="true" signature="584:587" ph="err...err" />
-            <marker date="1503481496000" expanded="true" signature="591:598" ph="console...console" />
+            <marker date="1503482530000" expanded="true" signature="181:310" ph="mutation...{&#10;        deletePost(input: $input) {&#10;            deletedId&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="190:208" ph="DeletePostMutation...DeletePostMutation" />
+            <marker date="1503482530000" expanded="true" signature="208:234" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="217:232" ph="DeletePostInput...DeletePostInput" />
+            <marker date="1503482530000" expanded="true" signature="235:310" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="245:255" ph="deletePost...deletePost" />
+            <marker date="1503482530000" expanded="true" signature="245:304" ph="deletePost...{&#10;            deletedId&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="255:270" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="256:261" ph="input...input" />
+            <marker date="1503482530000" expanded="true" signature="271:304" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="285:294" ph="deletedId...deletedId" />
+            <marker date="1503482530000" expanded="true" signature="328:346" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="350:459" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="356:361" ph="const...const" />
+            <marker date="1503482530000" expanded="true" signature="362:371" ph="variables...variables" />
+            <marker date="1503482530000" expanded="true" signature="405:407" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="409:415" ph="postId...postId" />
+            <marker date="1503482530000" expanded="true" signature="485:623" ph="(...{&#10;            mutation,&#10;            variables,&#10;            onError: err =&gt; console.error(err),&#10;            optimisticUpdater: (proxyStore) =&gt; {&#10;                // ... you'll implement this in a bit&#10;            }" />
+            <marker date="1503482530000" expanded="true" signature="516:623" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="530:538" ph="mutation...mutation" />
+            <marker date="1503482530000" expanded="true" signature="552:561" ph="variables...variables" />
+            <marker date="1503482530000" expanded="true" signature="584:587" ph="err...err" />
+            <marker date="1503482530000" expanded="true" signature="591:598" ph="console...console" />
           </folding>
         </state>
       </provider>
@@ -1543,18 +1546,18 @@
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
-            <marker date="1503481496000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
-            <marker date="1503481496000" expanded="true" signature="1021:1039" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1031:1033" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
-            <marker date="1503481496000" expanded="true" signature="1066:1070" ph="Post...Post" />
-            <marker date="1503481496000" expanded="true" signature="1071:1126" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1081:1083" ph="id...id" />
-            <marker date="1503481496000" expanded="true" signature="1092:1103" ph="description...description" />
-            <marker date="1503481496000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
+            <marker date="1503482530000" expanded="true" signature="990:1039" ph="fragment...{&#10;        id&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="999:1010" ph="Post_viewer...Post_viewer" />
+            <marker date="1503482530000" expanded="true" signature="1014:1020" ph="Viewer...Viewer" />
+            <marker date="1503482530000" expanded="true" signature="1021:1039" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1031:1033" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="1044:1126" ph="fragment...{&#10;        id&#10;        description&#10;        imageUrl&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="1053:1062" ph="Post_post...Post_post" />
+            <marker date="1503482530000" expanded="true" signature="1066:1070" ph="Post...Post" />
+            <marker date="1503482530000" expanded="true" signature="1071:1126" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1081:1083" ph="id...id" />
+            <marker date="1503482530000" expanded="true" signature="1092:1103" ph="description...description" />
+            <marker date="1503482530000" expanded="true" signature="1112:1120" ph="imageUrl...imageUrl" />
           </folding>
         </state>
       </provider>
@@ -1565,30 +1568,30 @@
           <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-            <marker date="1503481496000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
-            <marker date="1503481496000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
-            <marker date="1503481496000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
-            <marker date="1503481496000" expanded="true" signature="855:1109" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
-            <marker date="1503481496000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
-            <marker date="1503481496000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
-            <marker date="1503481496000" expanded="true" signature="896:932" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="897:901" ph="last...last" />
-            <marker date="1503481496000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
-            <marker date="1503481496000" expanded="true" signature="944:983" ph="(...)" />
-            <marker date="1503481496000" expanded="true" signature="945:948" ph="key...key" />
-            <marker date="1503481496000" expanded="true" signature="971:978" ph="filters...filters" />
-            <marker date="1503481496000" expanded="true" signature="971:982" ph="filters...[]" />
-            <marker date="1503481496000" expanded="true" signature="980:982" ph="[...]" />
-            <marker date="1503481496000" expanded="true" signature="984:1103" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="998:1003" ph="edges...edges" />
-            <marker date="1503481496000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
-            <marker date="1503481496000" expanded="true" signature="1004:1093" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1022:1026" ph="node...node" />
-            <marker date="1503481496000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
-            <marker date="1503481496000" expanded="true" signature="1027:1079" ph="{...}" />
-            <marker date="1503481496000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
-            <marker date="1503481496000" expanded="true" signature="1104:1109" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="820:1109" ph="fragment...{&#10;        ...Post_viewer&#10;        allPosts(last: 100, orderBy: createdAt_DESC) @connection(key: &quot;ListPage_allPosts&quot;, filters: []) {&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }&#10;    }" />
+            <marker date="1503482530000" expanded="true" signature="829:844" ph="ListPage_viewer...ListPage_viewer" />
+            <marker date="1503482530000" expanded="true" signature="848:854" ph="Viewer...Viewer" />
+            <marker date="1503482530000" expanded="true" signature="855:1109" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="868:879" ph="Post_viewer...Post_viewer" />
+            <marker date="1503482530000" expanded="true" signature="888:896" ph="allPosts...allPosts" />
+            <marker date="1503482530000" expanded="true" signature="888:1103" ph="allPosts...{&#10;            edges {&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }&#10;        }" />
+            <marker date="1503482530000" expanded="true" signature="896:932" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="897:901" ph="last...last" />
+            <marker date="1503482530000" expanded="true" signature="908:915" ph="orderBy...orderBy" />
+            <marker date="1503482530000" expanded="true" signature="944:983" ph="(...)" />
+            <marker date="1503482530000" expanded="true" signature="945:948" ph="key...key" />
+            <marker date="1503482530000" expanded="true" signature="971:978" ph="filters...filters" />
+            <marker date="1503482530000" expanded="true" signature="971:982" ph="filters...[]" />
+            <marker date="1503482530000" expanded="true" signature="980:982" ph="[...]" />
+            <marker date="1503482530000" expanded="true" signature="984:1103" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="998:1003" ph="edges...edges" />
+            <marker date="1503482530000" expanded="true" signature="998:1093" ph="edges...{&#10;                node {&#10;                    ...Post_post&#10;                }&#10;            }" />
+            <marker date="1503482530000" expanded="true" signature="1004:1093" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1022:1026" ph="node...node" />
+            <marker date="1503482530000" expanded="true" signature="1022:1079" ph="node...{&#10;                    ...Post_post&#10;                }" />
+            <marker date="1503482530000" expanded="true" signature="1027:1079" ph="{...}" />
+            <marker date="1503482530000" expanded="true" signature="1052:1061" ph="Post_post...Post_post" />
+            <marker date="1503482530000" expanded="true" signature="1104:1109" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1597,10 +1600,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
